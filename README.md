@@ -1,5 +1,6 @@
-# Game_Animation_Sound
-## Game: [https://sound-game-1.netlify.app/]
+# Game_Animation_Sound_colours 🎨
+[![Game:](https://img.shields.io/badge/Game-%230077B5.svg?logo=linkedin&logoColor=white)](https://sound-game-1.netlify.app/)
+### Game: [https://sound-game-1.netlify.app/]
 ![image](https://user-images.githubusercontent.com/118621709/236216562-b6e1f170-6538-4ceb-ba4b-f0d1085a13f1.png)
 
 ## Technologies used 🛠️
